@@ -1,10 +1,9 @@
-<<<<<<< HEAD
+
 meesiam
 laksa
 chick rice
-=======
 spiderman
 superman
 batman
 
->>>>>>> movies
+
